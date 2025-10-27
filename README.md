@@ -104,7 +104,7 @@ Evaluates **exercise habits, diet, and lifestyle** correlations with PCOS.
 * O+ blood group shows higher association in some studies.
 * Pregnancy success is lower naturally (20–40%) but IVF rates reach ~45%.
 
-![Wellness Dashboard](https://i.ibb.co/YBmPtxfk/Screenshot-2025-10-27-190410.png)
+![Wellness Dashboard](https://i.ibb.co/YBmPtxfk/Screenshot-2025-10-27-190410.pn)
 
 ---
 

@@ -68,7 +68,7 @@ Analysis of **follicle count, menstrual cycles, and fertility indicators**.
 
 Irregular or prolonged cycles affect up to 80% of women with PCOS. Fertility impact is evident with higher follicle counts and disrupted ovulation. Endometriosis overlap supports shared inflammatory mechanisms.
 
-![Reproductive Dashboard](https://i.ibb.co/TMgbfh7G/Screenshot-2025-10-23-120846.png)
+![Reproductive Dashboard](https://i.ibb.co/2DqZHxX/Screenshot-2025-10-23-120846.png)
 
 ---
 
